@@ -8,9 +8,12 @@
 
 ## Upload Static PDF and Connect Amazon S3
 
+![Second](s3-synced.png)
 ![Second](./daily-sync-s3-update-1.png)
 ![Second](./daily-sync-s3-update-2.png)
-
+![Second](s3-contents-1.png)
+![Second](s3-contents-2.png)
+![Second](s3-contents-3.png)
 
 ## Secure the Application
 
