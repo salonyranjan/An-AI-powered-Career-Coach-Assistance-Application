@@ -15,6 +15,10 @@
 ![Second](s3-contents-2.png)
 ![Second](s3-contents-3.png)
 
+### Missing Screenshots, second submission
+![Second](s3-manual-upload-1.png)
+![Second](s3-manual-upload-2.png)
+
 ## Secure the Application
 
 The acl contents 
